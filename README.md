@@ -1,7 +1,7 @@
-<h1 align="center">Salut, moi c'est Bachir 👋</h1>
+<h1 align="center">Salut, moi c'est Mouhammad El Bachir 👋</h1>
 
 <p align="center">
-  🎓 Étudiant en 2e BTS SIO option SLAM à <strong>IRIS Paris</strong><br>
+  🎓 Étudiant en <strong>2e année de BTS SIO option SLAM</strong> à <strong>IRIS Paris</strong><br>
   🚀 Futur alternant <strong>DevOps / Cloud</strong> pour septembre 2026<br>
   🌍 Argenteuil, France
 </p>
