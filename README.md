@@ -53,16 +53,7 @@
 - 🏭 [**capgemini-mqtt-poc**](https://github.com/melbachirdieng/capgemini-mqtt-poc) — POC architecture événementielle Python/MQTT/ActiveMQ réalisé pendant mon stage chez Capgemini
 - 🚗 [**PPE**](https://github.com/melbachirdieng/PPE) — Application de gestion d'auto-école développée en équipe (PHP/MySQL)
 - 🎓 [**Auto-ecole_E6**](https://github.com/melbachirdieng/Auto-ecole_E6) — Projet présenté à l'épreuve E6 du BTS SIO
-
----
-
-### 📊 Mes statistiques GitHub
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=melbachirdieng&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
-
-
+  
 ---
 
 ### 📫 Me contacter
