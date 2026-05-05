@@ -59,9 +59,9 @@
 ### 📊 Mes statistiques GitHub
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=melbachirdieng&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melbachirdieng&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=melbachirdieng&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
+
 
 ---
 
